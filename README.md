@@ -27,5 +27,5 @@ What to Expect:
 ![screenshot7](./assets/images/screenshot7.png)
 
 Link: <br>
-https://github.com/NAli3107/Password-Generator
+https://github.com/NAli3107/Password-Generator <br>
 https://nali3107.github.io/Password-Generator/
