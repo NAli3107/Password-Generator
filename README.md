@@ -14,18 +14,17 @@ What to Expect:
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/94486765/148683749-abb2f5a1-c18b-4b0c-921c-34bef213920c.png)
 
+<img width="346" alt="screenshot2" src="https://user-images.githubusercontent.com/94486765/148683776-11fdd89c-bd31-40d1-b25d-48f869bb9fc7.png">
 
-![Screenshot](./assets/images/screenshot2.png)
+<img width="416" alt="Screenshot3" src="https://user-images.githubusercontent.com/94486765/148683782-71f26fd4-fe7e-43ea-b64a-79c09f2476e5.png">
 
-![Screenshot](./assets/images/screenshot3.png)
+<img width="413" alt="Screenshot4" src="https://user-images.githubusercontent.com/94486765/148683788-b3545f7c-1262-4b41-ac6b-1839349a6578.png">
 
-![Screenshot](./assets/images/screenshot4.png)
+<img width="379" alt="Screenshot5" src="https://user-images.githubusercontent.com/94486765/148683797-94e4c1e2-03eb-429e-9d79-88204caf368c.png">
 
-![Screenshot](./assets/images/screenshot5.png)
+<img width="371" alt="Screenshot6" src="https://user-images.githubusercontent.com/94486765/148683798-d9b732a6-adf5-4391-bb58-da0d6758b69d.png">
 
-![Screenshot](./assets/images/screenshot6.png)
-
-![Screenshot](./assets/images/screenshot7.png)
+<img width="662" alt="Screenshot7" src="https://user-images.githubusercontent.com/94486765/148683799-aa888c85-2116-4165-9557-88a67f909692.png">
 
 Link: <br>
 https://github.com/NAli3107/Password-Generator <br>
