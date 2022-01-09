@@ -12,7 +12,8 @@ Users are then asked for character types to include in the password. These chara
 
 What to Expect:
 
-![Screenshot](./assets/images/03-javascript-homework-demo.png)
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/94486765/148683749-abb2f5a1-c18b-4b0c-921c-34bef213920c.png)
+
 
 ![Screenshot](./assets/images/screenshot2.png)
 
