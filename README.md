@@ -12,19 +12,19 @@ Users are then asked for character types to include in the password. These chara
 
 What to Expect:
 
-![screenshot1](./assets/images/03-javascript-homework-demo.png)
+![Screenshot](./assets/images/03-javascript-homework-demo.png)
 
-![screenshot2](./assets/images/screenshot2.png)
+![Screenshot](./assets/images/screenshot2.png)
 
-![screenshot3](./assets/images/screenshot3.png)
+![Screenshot](./assets/images/screenshot3.png)
 
-![screenshot4](./assets/images/screenshot4.png)
+![Screenshot](./assets/images/screenshot4.png)
 
-![screenshot5](./assets/images/screenshot5.png)
+![Screenshot](./assets/images/screenshot5.png)
 
-![screenshot6](./assets/images/screenshot6.png)
+![Screenshot](./assets/images/screenshot6.png)
 
-![screenshot7](./assets/images/screenshot7.png)
+![Screenshot](./assets/images/screenshot7.png)
 
 Link: <br>
 https://github.com/NAli3107/Password-Generator <br>
